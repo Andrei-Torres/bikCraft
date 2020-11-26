@@ -41,6 +41,20 @@
 		width: 181px;
 		height: 49px;
 	}
+
+	/*Quebra*/
+	.quebra{
+		width: 100%;
+		height: auto;
+		background: url(../img/bg-footer.jpg) no-repeat center;
+		background-size: cover;
+		text-align: center;
+		padding-top: 20px;
+	}
+	
+	.quebra .quote-externo{
+		max-width: 200px;
+	}
 }
 /*___________________________________________________________________________________________________________*/
 
@@ -159,6 +173,21 @@
 		padding-right: 0px;
 		margin-bottom: 40px;
 	}
+
+	/*Quebra*/
+	.quebra{
+		width: 100%;
+		height: auto;
+		background: url(../img/bg-footer.jpg) no-repeat center;
+		background-size: cover;
+		text-align: center;
+		padding-top: 20px;
+	}
+	
+	.quebra .quote-externo{
+		max-width: 200px;
+	}
+	
 }
 /*___________________________________________________________________________________________________________*/
 
