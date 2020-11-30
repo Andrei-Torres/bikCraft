@@ -1,4 +1,4 @@
-/*  Como iniciar o simples-slide.
+/*  Como iniciar o simple-slide.
 
 new SimpleSlide({
     slide: 'principal', // nome do atributo data-slide="principal"
@@ -22,6 +22,7 @@ new SimpleSlide({
         });
     } 
  
+// iniciando o simple-anime
 if(window.SimpleAnime){
     new SimpleAnime();
 }
